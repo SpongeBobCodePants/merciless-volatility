@@ -8,7 +8,7 @@
 ######$outputPath - Directory where output should go. Do NOT end in a backslash.
 ##2) Comment out any plugins you don't want to execute and/or reorder based on priority.
 ##3) Run the script.##4) 
-##4) View results as plugins complete. Find evil and save the world or at least earn your paycheck, brah.
+##4) View results as plugins complete. Find evil and save the world or at least earn your paycheck.
 ##Note: The volatility executable was renamed to v.exe out of total laziness.
 ##########################################################################################################
 
